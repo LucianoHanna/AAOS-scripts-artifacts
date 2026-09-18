@@ -1,0 +1,12 @@
+# Cuttlefish VM images and build artifacts (~17 GB)
+artifacts/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
